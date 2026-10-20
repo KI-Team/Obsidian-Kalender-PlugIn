@@ -1,0 +1,31 @@
+{
+  "language": "de",
+  "hourCycle": "locale",
+  "recoveryDrafts": {
+    "draft-dd8952b8-5867-4720-bd9e-e952c94bfcc5": {
+      "path": "Calendar.md",
+      "json": "{\n  \"version\": 1,\n  \"calId\": \"c3ec93da3-a949-437c-8325-1496bada72ae\",\n  \"settings\": {\n    \"view\": \"month\",\n    \"showCompleted\": true,\n    \"dayStart\": 9,\n    \"dayEnd\": 19\n  },\n  \"events\": [\n    {\n      \"id\": \"e605798c4-561d-4d6d-a15c-a0492ac1845e\",\n      \"title\": \"Heute die Software testen\",\n      \"date\": \"2026-10-19\",\n      \"created\": \"2026-10-19\",\n      \"order\": 0\n    },\n    {\n      \"id\": \"e60884e4c-bb75-47e0-ae0c-943542600de0\",\n      \"title\": \"Besuch von Karl\",\n      \"date\": \"2026-10-17\",\n      \"endDate\": \"2026-10-25\",\n      \"color\": \"purple\",\n      \"created\": \"2026-10-19\",\n      \"order\": 1\n    }\n  ]\n}",
+      "revision": 3,
+      "updated": 1792424603100
+    }
+  },
+  "firstView": "month",
+  "firstViewMobile": "agenda",
+  "dayStart": 7,
+  "dayEnd": 22,
+  "firstDayOfWeek": -1,
+  "defaultDurationMin": 60,
+  "snapMin": 30,
+  "multiCalendar": false,
+  "calendarNotePath": "Kalender.md",
+  "completionSound": true,
+  "monthChips": 4,
+  "statusBar": true,
+  "fullWidthScope": "desktop",
+  "viewMemory": {
+    "Kalender.md::c35939286-49be-46b9-a0a7-c487d2721d76": {
+      "view": "month",
+      "showCompleted": true
+    }
+  }
+}

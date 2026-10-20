@@ -1,0 +1,9 @@
+{
+  "id": "mb-calendar",
+  "name": "MB Calendar",
+  "version": "2.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Kalender in einer Markdown-Notiz. Überarbeitung von MD Calendar mit Sicherheits- und Stabilitätskorrekturen sowie deutscher Sprachversion.",
+  "author": "MB Calendar contributors; original: mrrepac",
+  "isDesktopOnly": false
+}
