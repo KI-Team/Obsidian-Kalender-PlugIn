@@ -79,5 +79,3 @@ Kann die vorhandene Einstellungsdatei überhaupt nicht gelesen werden, wird sie 
 Zum Schutz der Oberfläche gelten unter anderem: 2 MiB pro Kalenderblock, 5.000 Datensätze, 2.000 Ausnahmen pro Ausnahmeliste, 2.000 erzeugte Einträge pro dargestelltem Bereich und 500 zeitgebundene Einträge pro Tageslayout. Titel sind auf 1.000, Beschreibungen auf 20.000 Zeichen begrenzt. Die Undo-Historie hat insgesamt ein Budget von 8 MiB; Entwürfe zusammen 12 MiB. Beim Überschreiten werden Daten nicht automatisch abgeschnitten; Bearbeitung bzw. Anzeige wird mit Hinweis begrenzt.
 
 Ansichten, Speicherfehler, Gestenabbruch, separate Dokumente und schmale Ansichten ab. Netzwerkaufrufe werden dabei blockiert.
-
-**Eine echte Obsidian-Installation, reale Sync-Dienste, ein echtes Pop-out-Fenster und iOS-/Android-Geräte wurden hier nicht getestet.** Das Paket ist keine Sicherheitszertifizierung. Ergebnisse und verbleibende Prüfungen stehen in `PRUEFPROTOKOLL.md`; die Zuordnung zu allen Befunden der ursprünglichen Prüfung steht in `KORREKTUREN.md`.
